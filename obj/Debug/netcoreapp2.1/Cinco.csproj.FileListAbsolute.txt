@@ -1,0 +1,11 @@
+c:\Users\RhoKratos\Documents\MPOO\C#\Cinco\obj\Debug\netcoreapp2.1\Cinco.csprojAssemblyReference.cache
+c:\Users\RhoKratos\Documents\MPOO\C#\Cinco\obj\Debug\netcoreapp2.1\Cinco.csproj.CoreCompileInputs.cache
+c:\Users\RhoKratos\Documents\MPOO\C#\Cinco\obj\Debug\netcoreapp2.1\Cinco.AssemblyInfoInputs.cache
+c:\Users\RhoKratos\Documents\MPOO\C#\Cinco\obj\Debug\netcoreapp2.1\Cinco.AssemblyInfo.cs
+c:\Users\RhoKratos\Documents\MPOO\C#\Cinco\bin\Debug\netcoreapp2.1\Cinco.deps.json
+c:\Users\RhoKratos\Documents\MPOO\C#\Cinco\bin\Debug\netcoreapp2.1\Cinco.runtimeconfig.json
+c:\Users\RhoKratos\Documents\MPOO\C#\Cinco\bin\Debug\netcoreapp2.1\Cinco.runtimeconfig.dev.json
+c:\Users\RhoKratos\Documents\MPOO\C#\Cinco\bin\Debug\netcoreapp2.1\Cinco.dll
+c:\Users\RhoKratos\Documents\MPOO\C#\Cinco\bin\Debug\netcoreapp2.1\Cinco.pdb
+c:\Users\RhoKratos\Documents\MPOO\C#\Cinco\obj\Debug\netcoreapp2.1\Cinco.dll
+c:\Users\RhoKratos\Documents\MPOO\C#\Cinco\obj\Debug\netcoreapp2.1\Cinco.pdb
