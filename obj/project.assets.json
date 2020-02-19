@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\RhoKratos\\Documents\\MPOO\\C#\\Cinco\\Cinco.csproj",
+      "projectUniqueName": "C:\\Users\\RhoKratos\\Desktop\\Code-3\\Cinco.csproj",
       "projectName": "Cinco",
-      "projectPath": "c:\\Users\\RhoKratos\\Documents\\MPOO\\C#\\Cinco\\Cinco.csproj",
+      "projectPath": "C:\\Users\\RhoKratos\\Desktop\\Code-3\\Cinco.csproj",
       "packagesPath": "C:\\Users\\RhoKratos\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\RhoKratos\\Documents\\MPOO\\C#\\Cinco\\obj\\",
+      "outputPath": "C:\\Users\\RhoKratos\\Desktop\\Code-3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
